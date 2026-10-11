@@ -1,4 +1,4 @@
-# 📡 Hệ thống Thu thập, Lưu trữ và Tiền xử lý Dữ liệu IoT
+# Hệ thống Thu thập, Lưu trữ và Tiền xử lý Dữ liệu IoT
 
 Dự án mô phỏng việc thu thập dữ liệu từ cảm biến qua vi điều khiển ESP32, truyền tải qua giao thức MQTT, lưu trữ vào cơ sở dữ liệu chuỗi thời gian (InfluxDB) và thực hiện tiền xử lý dữ liệu bằng Python.
 
