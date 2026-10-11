@@ -2,10 +2,10 @@
 
 Dự án mô phỏng việc thu thập dữ liệu từ cảm biến qua vi điều khiển ESP32, truyền tải qua giao thức MQTT, lưu trữ vào cơ sở dữ liệu chuỗi thời gian (InfluxDB) và thực hiện tiền xử lý dữ liệu bằng Python.
 
-**👤 Thông tin sinh viên:**
-- **Họ và tên:** Đào Khánh Duy
-- **Mã sinh viên:** B23DCCN235
-- **Lớp/Nhóm:** Lớp IoT 04 – Tổ TH 01
+**Thông tin sinh viên:**
+- **Họ và tên: Đào Khánh Duy
+- **Mã sinh viên: B23DCCN235
+- **Lớp/Nhóm: Lớp IoT 04 – Tổ TH 01
 
 ---
 
