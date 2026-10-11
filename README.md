@@ -1,6 +1,5 @@
 # 📡 Hệ thống Thu thập, Lưu trữ và Tiền xử lý Dữ liệu IoT
 
-Đây là mã nguồn phục vụ cho **Bài thực hành số 2 - Môn học IoT và Ứng dụng** (Học viện Công nghệ Bưu chính Viễn thông).
 Dự án mô phỏng việc thu thập dữ liệu từ cảm biến qua vi điều khiển ESP32, truyền tải qua giao thức MQTT, lưu trữ vào cơ sở dữ liệu chuỗi thời gian (InfluxDB) và thực hiện tiền xử lý dữ liệu bằng Python.
 
 **👤 Thông tin sinh viên:**
