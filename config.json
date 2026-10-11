@@ -1,0 +1,13 @@
+{
+  "mqtt": {
+    "broker": "broker.emqx.io",
+    "port": 1883,
+    "topic": "ptit/iot/B23DCCN235/telemetry"
+  },
+  "influxdb": {
+    "url": "http://localhost:8086",
+    "token": "FUJYXngtBwre2U9xWKeGMUIPZ4sYM3sI2VisYpiWGDONmOio6gr5m1cTS9QUsM9a2MSFfYyvQo74J9ADRccG9A==",
+    "org": "B23DCCN235",
+    "bucket": "Bucket"
+  }
+}
